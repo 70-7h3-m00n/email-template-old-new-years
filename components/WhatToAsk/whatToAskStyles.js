@@ -72,7 +72,7 @@ const whatToAskStyles = {
     display: 'inline-block',
     margin: '0 auto',
     width: '100%',
-    maxWidth: '164px',
+    maxWidth: '174px',
     padding: '8px 16px',
     textAlign: 'center',
     fontSize: '15px',
