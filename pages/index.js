@@ -1,21 +1,12 @@
-import {
-  fetchNotionData,
-  getLastSixMonths,
-  isCurrentMonth,
-  sumMonths
-} from '../helpers'
 import { PostonentsProvider } from 'postonents'
 import {
   HeaderLogo,
   Hello,
   EmailWrapper,
   HeaderLinks,
-  LeaderboardsMonth,
-  LeaderboardsSixMonths,
   Banner,
-  Winner,
-  Promocode,
-  Prize,
+  WhatToAsk,
+  Article,
   FooterContacts,
   FooterLinks,
   Footer
@@ -31,7 +22,8 @@ const Home = ({ data }) => {
         <HeaderLinks />
         <Banner />
         <Hello />
-        <Promocode />
+        <WhatToAsk />
+        <Article />
         <FooterContacts />
         <FooterLinks />
         <Footer />

@@ -1,8 +1,19 @@
-const HelloStyles = {
+const whatToAskStyles = {
   container: {
     marginTop: '-10px',
     marginBottom: '10px',
     backgroundColor: '#ffffff'
+  },
+  column: {
+    minWidth: '100%',
+    width: '100%',
+    backgroundImage:
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1639997052/email-template-new-years/whatToAsk_x2xaew.jpg')",
+    backgroundRepeat: 'no-repeat',
+    backgroundPosition: 'top',
+    minWidth: '600px',
+    width: '600px',
+    paddingTop: '135px'
   },
   fullwidth: {
     minWidth: '100%',
@@ -78,4 +89,4 @@ const HelloStyles = {
   }
 }
 
-export { HelloStyles }
+export { whatToAskStyles }

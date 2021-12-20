@@ -12,10 +12,10 @@ const bannerStyles = {
   },
   column: {
     backgroundImage:
-      "url('https://res.cloudinary.com/npoipe/image/upload/v1637747130/email-template-black-friday/banner_wtdztk.jpg')",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1639996506/email-template-new-years/banner_yitdm7.jpg')",
     minWidth: '600px',
     width: '600px',
-    height: '300px'
+    height: '712px'
   },
   btn: {
     marginTop: '7px',

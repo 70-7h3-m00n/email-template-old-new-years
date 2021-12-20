@@ -1,3 +1,4 @@
+import Article from './Article/Article'
 import EmailWrapper from './EmailWrapper/EmailWrapper'
 import HeaderLogo from './HeaderLogo/HeaderLogo'
 import Hello from './Hello/Hello'
@@ -11,8 +12,10 @@ import Promocode from './Promocode/Promocode'
 import FooterContacts from './FooterContacts/FooterContacts'
 import FooterLinks from './FooterLinks/FooterLinks'
 import Footer from './Footer/Footer'
+import WhatToAsk from './WhatToAsk/WhatToAsk'
 
 export {
+  Article,
   EmailWrapper,
   HeaderLogo,
   Hello,
@@ -25,5 +28,6 @@ export {
   Promocode,
   FooterContacts,
   FooterLinks,
-  Footer
+  Footer,
+  WhatToAsk
 }
