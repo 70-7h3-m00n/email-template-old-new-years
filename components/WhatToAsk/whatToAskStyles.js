@@ -41,48 +41,46 @@ const whatToAskStyles = {
     textAlign: 'center',
     color: '#1A1A1A'
   },
-  pDiscount: {
-    width: '100%',
-    // maxWidth: '162px',
-    margin: '0 auto',
-    marginBottom: '0',
-    padding: '10px',
-    // border: '2px dashed #fff',
-    fontSize: '44px',
-    fontWeight: 700,
-    lineHeight: '31px',
-    textAlign: 'center',
+  list: {
+    padding: 0
+  },
+  item: {
+    listStyleType: 'none'
+  },
+  itemColumnImage: {
+    maxWidth: '13%',
+    padding: 0
+  },
+  itemColumnTitle: {
+    maxWidth: '58%',
+    padding: 0
+  },
+  itemColumnBtn: {
+    maxWidth: '29%',
+    padding: 0
+  },
+  itemTitle: {
+    fontSize: '13px',
+    fontWeight: 300,
+    lineHeight: '140%',
     color: '#1A1A1A'
   },
-  pNotice: {
-    width: '100%',
-    // maxWidth: '162px',
-    margin: '0 auto',
-    marginBottom: '0',
-    padding: '10px',
-    // border: '2px dashed #fff',
-    fontSize: '14px',
-    fontWeight: 300,
-    lineHeight: '16px',
-    textAlign: 'center',
-    color: '#4D4D4D'
-  },
   btn: {
-    display: 'block',
-    margin: '25px auto',
+    display: 'inline-block',
+    margin: '0 auto',
     width: '100%',
-    maxWidth: '205px',
-    padding: '11px 30px',
+    maxWidth: '164px',
+    padding: '8px 16px',
     textAlign: 'center',
     fontSize: '15px',
-    fontWeight: 500,
-    lineHeight: '19px',
+    fontWeight: 300,
+    lineHeight: '21px',
     borderRadius: '5px',
-    backgroundColor: '#F9CF3B',
-    color: '#000000'
+    backgroundColor: '#2B7968',
+    color: '#fff'
   },
   link: {
-    color: '#000000'
+    color: '#fff'
   },
   highlight: {
     fontWeight: 700

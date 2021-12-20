@@ -7,18 +7,20 @@ const FooterLinks = () => {
       <Row>
         <Column>
           <Link
-            href={`https://ipo.msk.ru/professionalnaja-perepodgotovka/`}
+            href={`https://ipo.msk.ru/professionalnaja-perepodgotovka/?utm_campaign=email&term=newYears`}
             style={stls.link}>
             ПРОФЕССИИ
           </Link>
           <Text style={stls.separator}>|</Text>
           <Link
-            href={`https://ipo.msk.ru/povyshenie-kvalifikacii/`}
+            href={`https://ipo.msk.ru/povyshenie-kvalifikacii/?utm_campaign=email&term=newYears`}
             style={stls.link}>
             КУРСЫ
           </Link>
           <Text style={stls.separator}>|</Text>
-          <Link href={`https://ipo.msk.ru/mba-1/`} style={stls.link}>
+          <Link
+            href={`https://ipo.msk.ru/mba-1/?utm_campaign=email&term=newYears`}
+            style={stls.link}>
             MBA
           </Link>
         </Column>

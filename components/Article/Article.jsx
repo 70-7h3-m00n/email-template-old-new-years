@@ -15,7 +15,9 @@ const Article = () => {
             <br />
             католическим Рождеством?
           </p>
-          <Link href={'https://ipo.msk.ru'} style={stls.btn}>
+          <Link
+            href={'https://ipo.msk.ru/?utm_campaign=email&term=newYears'}
+            style={stls.btn}>
             <span style={stls.link}>Перейти к статье</span>
           </Link>
         </Column>
