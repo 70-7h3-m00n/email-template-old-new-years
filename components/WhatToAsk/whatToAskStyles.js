@@ -54,12 +54,12 @@ const whatToAskStyles = {
   },
   itemColumnTitle: {
     width: '100%',
-    maxWidth: '56%',
+    maxWidth: '55%',
     padding: 0
   },
   itemColumnBtn: {
     width: '100%',
-    maxWidth: '31%',
+    maxWidth: '32%',
     padding: 0
   },
   itemTitle: {
