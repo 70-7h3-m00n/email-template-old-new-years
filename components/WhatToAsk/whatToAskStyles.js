@@ -48,15 +48,18 @@ const whatToAskStyles = {
     listStyleType: 'none'
   },
   itemColumnImage: {
+    width: '100%',
     maxWidth: '13%',
     padding: 0
   },
   itemColumnTitle: {
-    maxWidth: '58%',
+    width: '100%',
+    maxWidth: '56%',
     padding: 0
   },
   itemColumnBtn: {
-    maxWidth: '29%',
+    width: '100%',
+    maxWidth: '31%',
     padding: 0
   },
   itemTitle: {
