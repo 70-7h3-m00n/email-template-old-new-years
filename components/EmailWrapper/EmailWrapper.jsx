@@ -4,7 +4,7 @@ const EmailWrapper = ({ children }) => {
   return (
     <Email
       lang='ru'
-      title='МИПО - Премия за объем продаж и iPhone 13 PRO'
+      title='20 января 2022. ЧТО НЕЛЬЗЯ ПРОПУСТИТЬ!'
       headStyles="
     @font-face{
       font-display: swap;
