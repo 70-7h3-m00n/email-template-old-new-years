@@ -1,12 +1,10 @@
 import { headerLogoStyles as stls } from './headerLogoStyles'
-import {
-  Header,
-} from 'postonents'
+import { Header } from 'postonents'
 
 const HeaderLogo = () => {
   return (
     <Header
-      logo='https://res.cloudinary.com/mipinstitute/image/upload/v1629971752/temp%20ipo%20email/logo_yclf1h.png'
+      logo='https://res.cloudinary.com/npoipe/image/upload/v1642150944/email-template-old-new-years/logo_dqoxim.png'
       title={
         <>
           Московский институт <br /> профессионального образования

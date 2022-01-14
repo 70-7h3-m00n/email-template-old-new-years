@@ -12,7 +12,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Менеджмент)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/menedzhment/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/menedzhment/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'accounting',
@@ -24,7 +24,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Бухгалтерский учет)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/bukhgalterskoye-delo-pp/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/bukhgalterskoye-delo-pp/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'economics',
@@ -36,7 +36,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Экономика)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/jekonomika/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/jekonomika/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'design',
@@ -48,7 +48,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Дизайн)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/dizajn/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/dizajn/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'it',
@@ -60,7 +60,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(ИВТ)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/informatika-i-vychislitelnaja-tehnika/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/informatika-i-vychislitelnaja-tehnika/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'marketing',
@@ -72,7 +72,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Маркетинг)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/marketing/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/marketing/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'teaching',
@@ -84,7 +84,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Педагогика)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/pedagogika/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/pedagogika/?utm_campaign=email&term=oldNewYears'
     },
 
     {
@@ -97,7 +97,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Строительство)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/stroitelstvo/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/stroitelstvo/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'psychology',
@@ -108,7 +108,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Психология)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/psihologija/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/psihologija/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'jurisprudence',
@@ -120,7 +120,7 @@ const WhatToAsk = () => {
           <span style={stls.highlight}>(Юриспруденция)</span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/jurisprudencija/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/jurisprudencija/?utm_campaign=email&term=oldNewYears'
     },
     {
       key: 'default',
@@ -134,7 +134,7 @@ const WhatToAsk = () => {
           </span>
         </>
       ),
-      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/?utm_campaign=email&term=newYears'
+      href: 'https://ipo.msk.ru/professionalnaja-perepodgotovka/?utm_campaign=email&term=oldNewYears'
     }
   ]
 

@@ -21,8 +21,6 @@ const Home = ({ data }) => {
         <HeaderLogo />
         <HeaderLinks />
         <Banner />
-        <Hello />
-        <WhatToAsk />
         <Article />
         <FooterContacts />
         <FooterLinks />

@@ -1,8 +1,9 @@
 const footerContactsStyles = {
   container: {
+    marginTop: '-5px',
     lineHeight: '24px',
     textAlign: 'center',
-    backgroundColor: '#F2F2F2',
+    backgroundColor: '#FAFAFA',
     color: '#000'
   },
   titleFirst: {

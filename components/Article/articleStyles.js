@@ -1,10 +1,11 @@
 const articleStyles = {
   container: {
-    marginTop: '-10px'
+    marginTop: '-28px'
   },
   column: {
     backgroundImage:
-      "url('https://res.cloudinary.com/npoipe/image/upload/v1639997834/email-template-new-years/article_ug20w3.png'), linear-gradient(180deg, #2F8670 0%, #1A4147 100%)",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1642150937/email-template-old-new-years/article_xhstnt.png')",
+    backgroundColor: '#fff',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'middle',
     minWidth: '600px',
@@ -21,14 +22,14 @@ const articleStyles = {
     fontWeight: 500,
     lineHeight: '115%',
     textAlign: 'center',
-    color: '#fff'
+    color: '#000'
   },
   p: {
     fontSize: '15px',
     fontWeight: 300,
     lineHeight: '21px',
     textAlign: 'center',
-    color: '#fff'
+    color: '#000'
   },
   btn: {
     display: 'block',

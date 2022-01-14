@@ -12,7 +12,7 @@ const Promocode = () => {
               BLACKFRIDAY
             </p>
             <Link
-              href={'https://ipo.msk.ru/?utm_campaign=email&term=newYears'}
+              href={'https://ipo.msk.ru/?utm_campaign=email&term=oldNewYears'}
               style={stls.btn}>
               <span style={stls.link}>Получить скидку</span>
             </Link>

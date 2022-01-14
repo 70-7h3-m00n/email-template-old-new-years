@@ -5,7 +5,7 @@ const headerLinksStyles = {
     fontWeight: 300,
     lineHeight: '13px',
     textAlign: 'center',
-    backgroundColor: '#F2F2F2',
+    backgroundColor: '#FAFAFA',
     color: '#000'
   },
   link: {

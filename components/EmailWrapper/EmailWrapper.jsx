@@ -39,7 +39,7 @@ const EmailWrapper = ({ children }) => {
       font-weight: 700;
     }
     body { 
-      background-color: white; 
+      background-color: #FAFAFA;
     }
   "
       // headLinks={[
