@@ -16,11 +16,12 @@ const bannerStyles = {
     width: '600px',
     minHeight: '883px',
     height: '100%',
+    paddingTop: '515px',
     paddingBottom: '15px',
     borderRadius: '21px 21px 0 0'
   },
   title: {
-    marginTop: '515px',
+    // marginTop: '515px',
     marginBottom: '20px',
     textAlign: 'center',
     fontSize: '24px',
